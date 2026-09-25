@@ -1,5 +1,6 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
+import { GuidesTours} from "./components/GuidesTours.vue"
 </script>
 
 <template>
