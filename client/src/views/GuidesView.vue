@@ -8,6 +8,8 @@ const query = ref('')
 const loading = ref(true)
 const error = ref(null)
 
+const unused = "douglas"
+
 const load = async () => {
   loading.value = true
   error.value = null
